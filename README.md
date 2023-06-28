@@ -15,5 +15,5 @@ You can trust me dude. Really ( ͡° ͜ʖ ͡°)
 ```python
 Open the PONG!.project.gmx folder with GameMaker Studio 1.4
 Btw you can convert this project to a GameMaker2 Project to...
-If you don't know how to do this just google it O.o?
+If you don't know how to do this just google it /O.o\
 ```
